@@ -1,6 +1,35 @@
 h3{
 
 color: rgb(247, 4, 73);
+border: 2px solid blue;
 background-color: aqua;
 
 }
+
+.super{
+color:brown;
+background-color: burlywood;
+border: 2px  solid chocolate;
+
+}
+.supereme{
+    color:darkgreen;
+    background-color: greenyellow;
+    border: 2px  solid cyan;
+    
+    }
+
+    ul{
+        list-style:none ;
+        background-color: aquamarine;
+        font-size: large;
+        padding: 20px;
+
+    }
+    li{
+
+        display: inline;
+        background-color: wheat;
+        padding: 10px;
+
+    }
