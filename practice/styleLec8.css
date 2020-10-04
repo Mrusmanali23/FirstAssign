@@ -1,0 +1,35 @@
+ #Main{
+    border: 2px;
+    overflow: hidden;
+    background-color: teal;
+ }
+ 
+ #Center{
+    border: 2px solid blueviolet;
+    margin: 2px;
+    float: left;    
+    width: 25%;
+    
+
+ } 
+ #Left{
+    border: 2px solid blue;
+    margin: 2px;
+    float: left;
+    
+    width :23%; 
+
+ }
+
+ #Right{
+    border: 2px solid green;
+    margin: 2px;
+    float: right;
+    width :23%;
+ }
+ #Down{
+    border: 2px solid maroon;
+    margin: 2px;
+    float: right;
+    width :25%;
+ }
