@@ -35,12 +35,30 @@ input[type=text] {
   }
   .navpad{
     text-align: right;
+    padding-left: 9cm;
 
   }
   .heal{
-    margin: 1ch;
-    
-    padding-bottom: 1px;
+    margin-top: 10%;
     text-align: center;
+    padding-bottom: 1px;
+    margin-bottom: 5%;
+     }
 
-  }
+     .cardformat{
+      color: cyan;
+      text-align: center;
+     }
+ 
+ imgsize{
+height: 20vw;
+
+
+ }
+ .removeBorder{
+   border: 0;
+ }
+ .clickmore{
+ right: 10%;
+ position: absolute;
+ }
