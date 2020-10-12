@@ -99,6 +99,7 @@ padding-left: 15px;
 display: block;
 font-size: 1.1em;
 margin-bottom: 8px;
+margin-right: 0px;
 
 }
 .footer .footer-content  .contact{
@@ -115,4 +116,11 @@ position: absolute;
   bottom: 0px;
   left: 0px;
   padding-top: 20px;
+}
+.card-img-top {
+  width: 100%;
+  border-top-left-radius: calc(.25rem - 1px);
+  border-top-right-radius: calc(.25rem - 1px);
+  max-height: 250px;
+  min-height: 250px;
 }
